@@ -1,0 +1,15 @@
+/Users/egorsergeev/RiderProjects/JavaServerParser/JavaServerParser/bin/Debug/net6.0/JavaServerParser
+/Users/egorsergeev/RiderProjects/JavaServerParser/JavaServerParser/bin/Debug/net6.0/JavaServerParser.deps.json
+/Users/egorsergeev/RiderProjects/JavaServerParser/JavaServerParser/bin/Debug/net6.0/JavaServerParser.runtimeconfig.json
+/Users/egorsergeev/RiderProjects/JavaServerParser/JavaServerParser/bin/Debug/net6.0/JavaServerParser.dll
+/Users/egorsergeev/RiderProjects/JavaServerParser/JavaServerParser/bin/Debug/net6.0/ref/JavaServerParser.dll
+/Users/egorsergeev/RiderProjects/JavaServerParser/JavaServerParser/bin/Debug/net6.0/JavaServerParser.pdb
+/Users/egorsergeev/RiderProjects/JavaServerParser/JavaServerParser/obj/Debug/net6.0/JavaServerParser.csproj.AssemblyReference.cache
+/Users/egorsergeev/RiderProjects/JavaServerParser/JavaServerParser/obj/Debug/net6.0/JavaServerParser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egorsergeev/RiderProjects/JavaServerParser/JavaServerParser/obj/Debug/net6.0/JavaServerParser.AssemblyInfoInputs.cache
+/Users/egorsergeev/RiderProjects/JavaServerParser/JavaServerParser/obj/Debug/net6.0/JavaServerParser.AssemblyInfo.cs
+/Users/egorsergeev/RiderProjects/JavaServerParser/JavaServerParser/obj/Debug/net6.0/JavaServerParser.csproj.CoreCompileInputs.cache
+/Users/egorsergeev/RiderProjects/JavaServerParser/JavaServerParser/obj/Debug/net6.0/JavaServerParser.dll
+/Users/egorsergeev/RiderProjects/JavaServerParser/JavaServerParser/obj/Debug/net6.0/ref/JavaServerParser.dll
+/Users/egorsergeev/RiderProjects/JavaServerParser/JavaServerParser/obj/Debug/net6.0/JavaServerParser.pdb
+/Users/egorsergeev/RiderProjects/JavaServerParser/JavaServerParser/obj/Debug/net6.0/JavaServerParser.genruntimeconfig.cache
