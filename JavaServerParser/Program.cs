@@ -11,7 +11,6 @@ class Program
         (string classname, List<Variable> fields) = entityParser.Parse();
         Console.WriteLine("class " + classname);
         fields.ForEach(f => Console.WriteLine(f.ToString()));
-
         Console.WriteLine();
         
         EndpointsParser endpointsParser =
